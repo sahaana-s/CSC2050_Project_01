@@ -8,7 +8,6 @@ int main(int argc, char *argv[]) {
         	return 1;
     	}
 	
-	//
 	char *ptr;
 	long n = strtol(argv[1], &ptr, 10);
 
